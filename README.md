@@ -1,6 +1,6 @@
 ## Hello!
 
-<p align="center"><img width = "80%" src="./assets/frogger_header.png" alt="frog banner"></p>
+<img width = "100%" src="./assets/frogger_header.png" alt="frog banner">
 
 <!--
 **SerenaJewels/SerenaJewels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
